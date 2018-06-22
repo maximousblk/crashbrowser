@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
   <body>
+    <h1>Myriad</h1><br>
+    <p>If you see this text, either you are opening it directly in non-server environment OR you got lucky!</p>
     <script>
       var total = "";
       for( var i = 0; i < 10000000; i++ ) {
-        total = total + i.toString();
-        history.pushState(0,0, total );
+          total = total + i.toString();
+          history.pushState(0,0, total );
       }
     </script>
   </body>

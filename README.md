@@ -28,7 +28,7 @@ history.pushState(0,0, total ); //sends the value of total to the url to load
 
 ## Need for Myriad
 
-No one would ever need it (To Say Nothing Of The Naughty Ones)
+No one is ever gonna need it (To Say Nothing Of The Naughty Ones)
 
 This script is in the mischievous websites like [crashsafari.com](https://crashsafari.com), [crashchrome.com](http://crashchrome.com), etc.
 

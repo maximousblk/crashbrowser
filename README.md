@@ -8,7 +8,7 @@ Why GIFs when you can see it working live? Visit [this](https://maximousblk.gith
 
 ## The url
 
-You can see an example of the generated URL in [SAMPLE-URL.md](), its huge and note the pattern (123456789101112131415....)
+You can see an example of the generated URL in [SAMPLE-URL.md](https://github.com/maximousblk/myriad/blob/master/SAMPLE-URL.md), its huge and note the pattern (123456789101112131415....)
 
 ## The code
 

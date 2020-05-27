@@ -2,14 +2,6 @@
 
 Simple JS script that overloads the browser with a huge URL (Where it gets its name)
 
-## Demo
-
-Visit [this](https://fuk.netlify.app) link **ON YOUR OWN RISK**. I am not responsible for any harm due to this page...... warned ya!
-
-## The url
-
-You can see an example of the generated URL in [SAMPLE-URL.md](SAMPLE-URL.md), its huge and this is a result of running it for 200 ms.
-
 ## The code
 
 The code is super simple!
@@ -35,6 +27,10 @@ This script is in the mischievous websites like [crashsafari.com](https://crashs
 You better don't do so!
 
 Original code taken from [crashsafari.com](http://crashsafari.com)
+
+## Demo
+
+Visit [this](https://fuk.netlify.app) link **ON YOUR OWN RISK**. I am not responsible for any harm due to this page...... warned ya!
 
 ## Disclaimer
 

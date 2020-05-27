@@ -26,7 +26,7 @@ This script was used in the mischievous websites like [crashsafari.com](https://
 
 ## Demo
 
-Visit [this](https://fuk.netlify.app) link **ON YOUR OWN RISK**. I am not responsible for any harm due to this page...... warned ya!
+Visit [this](https://crashbrowser.now.sh/) link **ON YOUR OWN RISK**. I am not responsible for any harm due to this page...... warned ya!
 
 ## Disclaimer
 

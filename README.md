@@ -4,11 +4,11 @@ Simple JS script that overloads the browser with a huge URL (Where it gets its n
 
 ## Demo
 
-Why GIFs when you can see it working live? Visit [this](https://maximousblk.github.io/myriad/) link **ON YOUR OWN RISK**. I am not responsible for any harm due to this page...... warned ya!
+Why GIFs when you can see it working live? Visit [this](https://fuk.netlify.app) link **ON YOUR OWN RISK**. I am not responsible for any harm due to this page...... warned ya!
 
 ## The url
 
-You can see an example of the generated URL in [SAMPLE-URL.md](https://github.com/maximousblk/myriad/blob/master/SAMPLE-URL.md), its huge and note the pattern (123456789101112131415....)
+You can see an example of the generated URL in [SAMPLE-URL.md](SAMPLE-URL.md), its huge and note the pattern (123456789101112131415....)
 
 ## The code
 
@@ -41,8 +41,3 @@ Original code taken from [crashsafari.com](http://crashsafari.com)
 * This piece of code is open and I am not the creator or owner of this script.
 * It is only for learning and research purpose.
 * I am not responsible for any destruction or harm caused due to this program/code.
-* No systems (hardware/software) were harmed during the making of this program/code
-
-## License
-
-This program/code is licensed under the [Unlicense](http://unlicense.org).
